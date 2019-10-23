@@ -1,0 +1,20 @@
+body{
+    color:purple;
+}
+.navbar{
+    padding:1rem;
+}
+
+.btn-primary:hover {
+    background-color: green;
+    color: white;
+  }
+
+  .hero-background-img {
+    background-image: url("rodion-kutsaev-8P-uQaTd8rw-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;  
+    padding-bottom:200px;
+  }
